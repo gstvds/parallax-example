@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "parallax-example",
+    "slug": "parallax-example",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "parallax-example"
+}
